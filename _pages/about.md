@@ -49,6 +49,8 @@ My research interests include:
 
   Responsible for Agentic Tool Use: Cold Start Strategy and RL Task Synthesis 
 
+  Core Contributor of [LongCat-Flash-Thinking-2601 Technical Report](https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=OdEZE2AAAAAJ&sortby=pubdate&citation_for_view=OdEZE2AAAAAJ:j8SEvjWlNXcC)
+
   <!-- <img src="./images/longcat_logo.svg" alt="LongCat 团队 Logo" class="intern-logo"> -->
 
 - *2024.06 - 2025.06*: AntGroup, Ling Team
