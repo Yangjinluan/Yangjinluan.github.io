@@ -52,5 +52,5 @@ My research interests include:
 
 
 # 💻 Internships
-- *2025.09 - now*, Meituan, Longcat Team, Agentic Tool Use  <img src='./images/longcat_logo.svg' style='width: 3.0em;'> 
-- *2024.06 - 2025.06*, AntGroup, Ling Team, LLM Post-Training <img src='./images/ant-bailing.png' style='width: 2.1em;'>
+- *2025.09 - now*, Meituan, Longcat Team, Agentic Tool Use  <img src='./images/longcat_logo.svg' style='width: 4.0em;'> 
+- *2024.06 - 2025.06*, AntGroup, Ling Team, LLM Post-Training <img src='./images/ant-bailing.png' style='width: 1.0em;'>
