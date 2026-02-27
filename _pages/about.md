@@ -28,20 +28,6 @@ My research interests include:
 
 <span style="color:red;"> ★★★ I am currently seeking job opportunities and will graduate in June 2027. If you have any suitable positions, please feel free to reach out.</span>
 
-<!-- <span class='anchor' id='publications'></span> -->
-
-<!-- # 🔥 News
-- *2025.05* 🥂🥂 Our paper [MetaTox](https://arxiv.org/abs/2412.15268) is accepted by ACL 2025! See you in Vienna!
-- *2025.01* 🥂🥂 Our paper [HQA-GAE](https://dl.acm.org/doi/abs/10.1145/3696410.3714656) is accepted by WWW 2025! See you in Sydney!
-- *2025.01* 📸📸 Our paper [ACAQL](https://ieeexplore.ieee.org/abstract/document/10836919) is accepted by TKDE 2025! The system has been applied to Credit Card Center of Bank of Shanghai.
-
-{% include_relative includes/pub.md %} -->
-
-<!-- # 🏆 Honors and Awards
-- *2022-2025* Graduate Academic Scholarship, East China Normal University
-- *2022.06* Outstanding Graduate, East China University of Science and Technology
-- *2018-2022* Academic Excellence Scholarship, East China University of Science and Technology  -->
-
 # 📝 Publications 
 
 Please see my [Google Scholar](https://scholar.google.com.hk/citations?view_op=list_works&hl=en&hl=en&user=OdEZE2AAAAAJ&sortby=pubdate) for the publications.
