@@ -22,8 +22,7 @@ I am currently a fourth-year PhD Student in the College of Computer Science and 
 My research interests include:
 - **Agentic RL** for complex interaction scenarios (e.g. Tool Use, DeepResearch, Code Agent);
 - **LLM Reasoning** especially for real-world open-domain unverifiable scenarios; 
-- **Trustworthiness** include models' generalization, safety, hallucination and so on.
-
+- **Trustworthiness** including models' generalization, safety, hallucination and so on.
 
 <!-- ★★★ Feel free to reach out to me for academic discussions and collaborations! -->
 
@@ -46,16 +45,22 @@ My research interests include:
 
 # 💻 Internships
 
-- *2025.09 - now*: Meituan, Longcat Team, Agentic Tool Use, Cold Start Strategy and RL Task Synthesis 
+- *2025.09 - now*: Meituan, Longcat Team
+
+Responsible for Agentic Tool Use: Cold Start Strategy and RL Task Synthesis 
 
   <!-- <img src="./images/longcat_logo.svg" alt="LongCat 团队 Logo" class="intern-logo"> -->
 
-- *2024.06 - 2025.06*: AntGroup, Ling Team, LLM Post-Training, Multi-Objective Policy Optimization and Data Mixture Optimization 
+- *2024.06 - 2025.06*: AntGroup, Ling Team
+
+Responsible for LLM Post-Training: Multi-Objective Policy Optimization and Data Mixture Optimization 
 
   <!-- <img src="./images/ant-bailing.png" alt="蚂蚁集团 Ling 团队 Logo" class="intern-logo"> -->
 
 
-- *2021.10 - 2022.01*: JD, NLP Engineer, Dialogue System
+- *2021.10 - 2022.01*: JD, NLP Engineer
+
+Responsible for Dialogue System
 
 # 📖 Educations
 - *2022.09 - 2027.06 (Expected)*, PhD candidate, Zhejiang University 
