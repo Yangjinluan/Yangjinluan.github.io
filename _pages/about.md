@@ -23,7 +23,6 @@ My research interests include:
 - **LLM Reasoning**: Complex Scenario Reasoning (Real-World Open-Domain Unverifiable Reasoning) 
 - **Trustworthiness**: About models' generalization, safety, hallucination and so on.
 
-
 ★★★ I am currently seeking job opportunities and will graduate in June 2027. If you have any suitable positions, please feel free to reach out.
 
 # 📖 Educations
