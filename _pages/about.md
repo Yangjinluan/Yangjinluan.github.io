@@ -27,7 +27,7 @@ My research interests include:
 
 <!-- ★★★ Feel free to reach out to me for academic discussions and collaborations! -->
 
-★★★ <span style="color:red;">I am currently seeking job opportunities and will graduate in June 2027. If you have any suitable positions, please feel free to reach out.</span>
+<span style="color:red;"> ★★★ I am currently seeking job opportunities and will graduate in June 2027. If you have any suitable positions, please feel free to reach out.</span>
 
 <!-- <span class='anchor' id='publications'></span> -->
 
@@ -36,7 +36,7 @@ My research interests include:
 - *2025.01* 🥂🥂 Our paper [HQA-GAE](https://dl.acm.org/doi/abs/10.1145/3696410.3714656) is accepted by WWW 2025! See you in Sydney!
 - *2025.01* 📸📸 Our paper [ACAQL](https://ieeexplore.ieee.org/abstract/document/10836919) is accepted by TKDE 2025! The system has been applied to Credit Card Center of Bank of Shanghai.
 
-<!-- {% include_relative includes/pub.md %} --> -->
+{% include_relative includes/pub.md %} -->
 
 <!-- # 🏆 Honors and Awards
 - *2022-2025* Graduate Academic Scholarship, East China Normal University
