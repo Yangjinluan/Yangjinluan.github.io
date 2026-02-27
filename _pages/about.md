@@ -49,15 +49,6 @@ My research interests include:
  <!-- <img src='./images/logos/ecust.png' style='width: 2.5em;'> -->
 
 
-<style>
-.intern-logo {
-  max-width: 60px;
-  height: auto;
-  vertical-align: middle;
-  margin-left: 8px;
-}
-</style>
-
 # 💻 Internships
 
 - *2025.09 - now*: Meituan, Longcat Team, Agentic Tool Use  
