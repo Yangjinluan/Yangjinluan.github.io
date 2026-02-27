@@ -24,7 +24,7 @@ My research interests include:
 - **Trustworthiness**: About models' generalization, safety, hallucination and so on.
 
 
-★★★ <font color="red">I am currently seeking job opportunities and will graduate in June 2027. If you have any suitable positions, please feel free to reach out.</font>
+★★★ <span style="color:red;">I am currently seeking job opportunities and will graduate in June 2027. If you have any suitable positions, please feel free to reach out.</span>
 
 # 📖 Educations
 - *2022.09 - 2027.06 (Expected)*, PhD Candidate, Zhejiang University 
