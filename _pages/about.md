@@ -1,4 +1,3 @@
----
 permalink: /
 title: ""
 excerpt: ""
@@ -25,8 +24,6 @@ My research interests include:
 - **Trustworthiness**: About models' generalization, safety, hallucination and so on.
 
 
-<!-- ★★★ Feel free to reach out to me for academic discussions and collaborations! -->
-
 ★★★ I am currently seeking job opportunities and will graduate in June 2027. If you have any suitable positions, please feel free to reach out.
 
 <!-- <span class='anchor' id='publications'></span> -->
@@ -42,8 +39,9 @@ My research interests include:
 - *2022-2025* Graduate Academic Scholarship, East China Normal University
 - *2022.06* Outstanding Graduate, East China University of Science and Technology
 - *2018-2022* Academic Excellence Scholarship, East China University of Science and Technology  -->
+
 # 📖 Educations
-- *2022.09 - 2027.06(Expected)*, PhD candidate, Zhejiang University 
+- *2022.09 - 2027.06 (Expected)*, PhD Candidate, Zhejiang University 
  <!-- <img src='./images/' style='width: 2.3em;'> -->
 - *2018.09 - 2022.06*, Undergraduate, Nanjing University of Aeronautics and Astronautics 
  <!-- <img src='./images/logos/ecust.png' style='width: 2.5em;'> -->
@@ -58,4 +56,3 @@ My research interests include:
 - *2024.06 - 2025.06*: AntGroup, Ling Team, LLM Post-Training  
 
   <!-- <img src="./images/ant-bailing.png" alt="蚂蚁集团 Ling 团队 Logo" class="intern-logo"> -->
-
