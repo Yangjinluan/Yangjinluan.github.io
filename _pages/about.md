@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fourth-year PhD Student in the College of Computer Science and Technology at Zhejiang University, under the supervision of [Prof. Fei Wu](https://scholar.google.com/citations?hl=zh-CN&user=XJLn4MYAAAAJ) and [Prof. Kun Kuang](https://scholar.google.com/citations?hl=zh-CN&user=FOsNiMQAAAAJ) in the DCD (Digital media Computing & Design) Lab. During my Ph.D journey, I am also fortunate to collaborate with [Prof. Li Shen](https://scholar.google.com.hk/citations?hl=en&user=yVhgENIAAAAJ) from Sun Yat-sen University and [Zhengyu Chen](https://scholar.google.com.hk/citations?user=PqrvpbkAAAAJ&hl=en&oi=ao) from Meituan remotely.
+I am currently a fourth-year PhD Student in the College of Computer Science and Technology at Zhejiang University, under the supervision of [Prof. Fei Wu](https://scholar.google.com/citations?hl=zh-CN&user=XJLn4MYAAAAJ) and [Prof. Kun Kuang](https://scholar.google.com/citations?hl=zh-CN&user=FOsNiMQAAAAJ) in the DCD (Digital media Computing & Design) Lab. During my PhD journey, I am also fortunate to collaborate with [Prof. Li Shen](https://scholar.google.com.hk/citations?hl=en&user=yVhgENIAAAAJ) from Sun Yat-sen University and [Zhengyu Chen](https://scholar.google.com.hk/citations?user=PqrvpbkAAAAJ&hl=en&oi=ao) from Meituan remotely.
 
 My research interests include:
 - **Agentic RL** for complex interaction scenarios (e.g. Tool Use, DeepResearch, Code Agent);
 - **LLM Reasoning** especially for real-world open-domain unverifiable scenarios; 
 - **Trustworthiness** including models' generalization, safety, hallucination and so on.
 
-<!-- ★★★ Feel free to reach out to me for academic discussions and collaborations! -->
+★★★ Feel free to reach out to me for academic discussions and collaborations!
 
 <span style="color:red;"> ★★★ I am currently seeking job opportunities and will graduate in June 2027. If you have any suitable positions, please feel free to reach out.</span>
 
