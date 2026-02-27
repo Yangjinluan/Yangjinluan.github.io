@@ -34,7 +34,7 @@ Please look through my [Google Scholar](https://scholar.google.com.hk/citations?
 
 # 💻 Internships
 
-- *2025.09 - 2026.03*: Meituan, LongCat Team
+- *2025.09 - 2026.03*: Meituan, [LongCat Team](https://github.com/meituan-longcat)
 
   Responsible for Agentic Tool Use: Cold Start Strategy and RL Task Synthesis 
 
@@ -42,7 +42,7 @@ Please look through my [Google Scholar](https://scholar.google.com.hk/citations?
 
   <!-- <img src="./images/longcat_logo.svg" alt="LongCat 团队 Logo" class="intern-logo"> -->
 
-- *2024.06 - 2025.06*: AntGroup, Ling Team
+- *2024.06 - 2025.06*: AntGroup, [Ling Team](https://github.com/inclusionAI)
 
   Responsible for LLM Post-Training: Multi-Objective Policy Optimization and Data Mixture Optimization 
 
