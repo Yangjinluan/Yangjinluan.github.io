@@ -58,9 +58,9 @@ My research interests include:
   <!-- <img src="./images/ant-bailing.png" alt="蚂蚁集团 Ling 团队 Logo" class="intern-logo"> -->
 
 
-- *2021.10 - 2022.01*: JD, NLP Engineer
+- *2021.10 - 2022.01*: JD
 
-  Responsible for Dialogue System
+  Responsible for NLP Dialogue System
 
 # 📖 Educations
 - *2022.09 - 2027.06 (Expected)*, PhD candidate, Zhejiang University 
