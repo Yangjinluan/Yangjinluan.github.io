@@ -47,20 +47,20 @@ My research interests include:
 
 - *2025.09 - now*: Meituan, Longcat Team
 
-Responsible for Agentic Tool Use: Cold Start Strategy and RL Task Synthesis 
+  Responsible for Agentic Tool Use: Cold Start Strategy and RL Task Synthesis 
 
   <!-- <img src="./images/longcat_logo.svg" alt="LongCat 团队 Logo" class="intern-logo"> -->
 
 - *2024.06 - 2025.06*: AntGroup, Ling Team
 
-Responsible for LLM Post-Training: Multi-Objective Policy Optimization and Data Mixture Optimization 
+  Responsible for LLM Post-Training: Multi-Objective Policy Optimization and Data Mixture Optimization 
 
   <!-- <img src="./images/ant-bailing.png" alt="蚂蚁集团 Ling 团队 Logo" class="intern-logo"> -->
 
 
 - *2021.10 - 2022.01*: JD, NLP Engineer
 
-Responsible for Dialogue System
+  Responsible for Dialogue System
 
 # 📖 Educations
 - *2022.09 - 2027.06 (Expected)*, PhD candidate, Zhejiang University 
