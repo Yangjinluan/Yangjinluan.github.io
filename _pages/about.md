@@ -20,9 +20,9 @@ redirect_from:
 I am currently a fourth-year PhD Student in the College of Computer Science and Technology at Zhejiang University, under the supervision of [Prof. Fei Wu](https://scholar.google.com/citations?hl=zh-CN&user=XJLn4MYAAAAJ) and [Prof. Kun Kuang](https://scholar.google.com/citations?hl=zh-CN&user=FOsNiMQAAAAJ) in the DCD (Digital media Computing & Design) Lab. During my Ph.D journey, I am also lucky to work with [Prof. Li Shen](https://scholar.google.com.hk/citations?hl=en&user=yVhgENIAAAAJ) and [Zhengyu Chen](https://scholar.google.com.hk/citations?user=PqrvpbkAAAAJ&hl=en&oi=ao) remotely.
 
 My research interests include:
-- **Agentic RL**: Complex Scenario Agent (e.g. Tool Use, DeepResearch, Code Agent);
-- **LLM Reasoning**: Complex Scenario Reasoning (Real-World Open-Domain Unverifiable Reasoning) 
-- **Trustworthiness**: About models' generalization, safety, hallucination and so on.
+- **Agentic RL** for complex interaction scenarios (e.g. Tool Use, DeepResearch, Code Agent);
+- **LLM Reasoning** especially for real-world open-domain unverifiable scenarios; 
+- **Trustworthiness** include models' generalization, safety, hallucination and so on.
 
 
 <!-- ★★★ Feel free to reach out to me for academic discussions and collaborations! -->
@@ -46,14 +46,16 @@ My research interests include:
 
 # 💻 Internships
 
-- *2025.09 - now*: Meituan, Longcat Team, Agentic Tool Use 
+- *2025.09 - now*: Meituan, Longcat Team, Agentic Tool Use, Cold Start Strategy and RL Task Synthesis 
 
   <!-- <img src="./images/longcat_logo.svg" alt="LongCat 团队 Logo" class="intern-logo"> -->
 
-- *2024.06 - 2025.06*: AntGroup, Ling Team, LLM Post-Training  
+- *2024.06 - 2025.06*: AntGroup, Ling Team, LLM Post-Training, Multi-Objective Policy Optimization and Data Mixture Optimization 
 
   <!-- <img src="./images/ant-bailing.png" alt="蚂蚁集团 Ling 团队 Logo" class="intern-logo"> -->
 
+
+- *2021.10 - 2022.01*: JD, NLP Engineer, Dialogue System
 
 # 📖 Educations
 - *2022.09 - 2027.06 (Expected)*, PhD candidate, Zhejiang University 
