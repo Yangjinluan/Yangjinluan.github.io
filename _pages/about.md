@@ -20,8 +20,8 @@ redirect_from:
 I am currently a fourth-year PhD Student in the College of Computer Science and Technology at Zhejiang University, under the supervision of [Prof. Fei Wu](https://scholar.google.com/citations?hl=zh-CN&user=XJLn4MYAAAAJ) and [Prof. Kun Kuang](https://scholar.google.com/citations?hl=zh-CN&user=FOsNiMQAAAAJ) in the DCD (Digital media Computing & Design) Lab.
 
 My research interests include:
-- **Reinforcement Learning**: applications in graph representation learning, retrieval-augmented generation (RAG), financial technology (Fintech);
-- **Large Language Models**: applications in graph RAG, toxicity detection.
+- **Reinforcement Learning**:;
+- **Large Language Models**:.
 
 <!-- ★★★ Feel free to reach out to me for academic discussions and collaborations! -->
 
@@ -35,7 +35,7 @@ My research interests include:
 - *2025.01* 🥂🥂 Our paper [HQA-GAE](https://dl.acm.org/doi/abs/10.1145/3696410.3714656) is accepted by WWW 2025! See you in Sydney!
 - *2025.01* 📸📸 Our paper [ACAQL](https://ieeexplore.ieee.org/abstract/document/10836919) is accepted by TKDE 2025! The system has been applied to Credit Card Center of Bank of Shanghai.
 
-{% include_relative includes/pub.md %} -->
+<!-- {% include_relative includes/pub.md %} --> -->
 
 
 <!-- # 🏆 Honors and Awards
@@ -52,5 +52,5 @@ My research interests include:
 
 
 # 💻 Internships
-- *2025.09 - now*, Meituan, Longcat Team <img src='./images/longcat_logo.svg' style='width: 2.1em;'> , Agentic Tool Use
-- *2024.06 - 2025.06*, AntGroup, Ling Team <img src='./images/ant-bailing.png' style='width: 2.1em;'> , LLM Post-Training 
+- *2025.09 - now*, Meituan, Longcat Team, Agentic Tool Use  <img src='./images/longcat_logo.svg' style='width: 3.0em;'> 
+- *2024.06 - 2025.06*, AntGroup, Ling Team, LLM Post-Training <img src='./images/ant-bailing.png' style='width: 2.1em;'>
