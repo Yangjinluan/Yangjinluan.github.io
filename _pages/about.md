@@ -21,8 +21,8 @@ I am currently a fourth-year PhD Student in the College of Computer Science and 
 
 My research interests include:
 - **Agentic RL** for complex interaction scenarios (e.g. Tool Use, DeepResearch, Code Agent);
-- **LLM Reasoning** especially for real-world open-domain unverifiable scenarios; 
-- **Trustworthiness** including models' generalization, safety, hallucination and so on.
+- **LLM Reasoning**, especially for real-world open-domain unverifiable scenarios; 
+- **Trustworthiness**, including models' generalization, safety, hallucination and so on.
 
 ★★★ Feel free to reach out to me for academic discussions and collaborations!
 
@@ -30,7 +30,7 @@ My research interests include:
 
 # 📝 Publications 
 
-Please see my [Google Scholar](https://scholar.google.com.hk/citations?view_op=list_works&hl=en&hl=en&user=OdEZE2AAAAAJ&sortby=pubdate) for the publications.
+Please look through my [Google Scholar](https://scholar.google.com.hk/citations?view_op=list_works&hl=en&hl=en&user=OdEZE2AAAAAJ&sortby=pubdate) for the publications.
 
 # 💻 Internships
 
