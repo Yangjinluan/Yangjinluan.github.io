@@ -45,7 +45,7 @@ My research interests include:
 
 # 💻 Internships
 
-- *2025.09 - now*: Meituan, Longcat Team
+- *2025.09 - 2026.03*: Meituan, Longcat Team
 
   Responsible for Agentic Tool Use: Cold Start Strategy and RL Task Synthesis 
 
