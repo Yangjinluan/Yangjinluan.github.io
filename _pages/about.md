@@ -27,7 +27,7 @@ My research interests include:
 
 <!-- ★★★ Feel free to reach out to me for academic discussions and collaborations! -->
 
-★★★ I am currently seeking job opportunities and will graduate in June 2027. If you have any suitable positions, please feel free to reach out.
+★★★ <span style="color:red;">I am currently seeking job opportunities and will graduate in June 2027. If you have any suitable positions, please feel free to reach out.</span>
 
 <!-- <span class='anchor' id='publications'></span> -->
 
@@ -44,7 +44,7 @@ My research interests include:
 - *2018-2022* Academic Excellence Scholarship, East China University of Science and Technology  -->
 
 # 📖 Educations
-- *2022.09 - 2027.06(Expected)*, PhD candidate, Zhejiang University 
+- *2022.09 - 2027.06 (Expected)*, PhD candidate, Zhejiang University 
  <!-- <img src='./images/' style='width: 2.3em;'> -->
 - *2018.09 - 2022.06*, Undergraduate, Nanjing University of Aeronautics and Astronautics 
  <!-- <img src='./images/logos/ecust.png' style='width: 2.5em;'> -->
