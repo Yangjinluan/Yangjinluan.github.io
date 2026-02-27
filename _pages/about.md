@@ -49,14 +49,20 @@ My research interests include:
  <!-- <img src='./images/logos/ecust.png' style='width: 2.5em;'> -->
 
 
-# 💻 Internships
-- *2025.09 - now*, Meituan, Longcat Team, Agentic Tool Use  
-<div style="height: 4.0em; display: flex; align-items: center;">
-  <img src='./images/longcat_logo.svg' style='max-height: 100%; width: auto;'>
-</div>
+<style>
+.intern-logo {
+  max-width: 60px;
+  height: auto;
+  vertical-align: middle;
+  margin-left: 8px;
+}
+</style>
 
-- *2024.06 - 2025.06*, AntGroup, Ling Team, LLM Post-Training 
-<div style="height: 4.0em; display: flex; align-items: center;">
-  <img src='./images/ant-bailing.png' style='max-height: 100%; width: auto;'>
-</div>
+# 💻 Internships
+
+- *2025.09 - now*: Meituan, Longcat Team, Agentic Tool Use  
+  <img src="./images/longcat_logo.svg" alt="LongCat 团队 Logo" class="intern-logo">
+
+- *2024.06 - 2025.06*: AntGroup, Ling Team, LLM Post-Training  
+  <img src="./images/ant-bailing.png" alt="蚂蚁集团 Ling 团队 Logo" class="intern-logo">
 
