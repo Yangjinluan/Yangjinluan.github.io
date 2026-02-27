@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fourth-year PhD Student in the College of Computer Science and Technology at Zhejiang University, under the supervision of [Prof. Fei Wu](https://scholar.google.com/citations?hl=zh-CN&user=XJLn4MYAAAAJ) and [Prof. Kun Kuang](https://scholar.google.com/citations?hl=zh-CN&user=FOsNiMQAAAAJ) in the DCD (Digital media Computing & Design) Lab.
+I am currently a fourth-year PhD Student in the College of Computer Science and Technology at Zhejiang University, under the supervision of [Prof. Fei Wu](https://scholar.google.com/citations?hl=zh-CN&user=XJLn4MYAAAAJ) and [Prof. Kun Kuang](https://scholar.google.com/citations?hl=zh-CN&user=FOsNiMQAAAAJ) in the DCD (Digital media Computing & Design) Lab. During my Ph.D journey, I am also lucky to work with [Prof. Li Shen](https://scholar.google.com.hk/citations?hl=en&user=yVhgENIAAAAJ) and [Zhengyu Chen](https://scholar.google.com.hk/citations?user=PqrvpbkAAAAJ&hl=en&oi=ao) remotely.
 
 My research interests include:
 - **Agentic RL**: Complex Scenario Agent (e.g. Tool Use, DeepResearch, Code Agent);
