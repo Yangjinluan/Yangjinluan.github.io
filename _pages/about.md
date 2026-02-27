@@ -42,10 +42,13 @@ My research interests include:
 - *2022.06* Outstanding Graduate, East China University of Science and Technology
 - *2018-2022* Academic Excellence Scholarship, East China University of Science and Technology  -->
 
+# 📝 Publications 
+
+Please see my [Google Scholar](https://scholar.google.com.hk/citations?view_op=list_works&hl=en&hl=en&user=OdEZE2AAAAAJ&sortby=pubdate) for the publications.
 
 # 💻 Internships
 
-- *2025.09 - 2026.03*: Meituan, Longcat Team
+- *2025.09 - 2026.03*: Meituan, LongCat Team
 
   Responsible for Agentic Tool Use: Cold Start Strategy and RL Task Synthesis 
 
