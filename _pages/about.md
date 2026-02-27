@@ -20,13 +20,14 @@ redirect_from:
 I am currently a fourth-year PhD Student in the College of Computer Science and Technology at Zhejiang University, under the supervision of [Prof. Fei Wu](https://scholar.google.com/citations?hl=zh-CN&user=XJLn4MYAAAAJ) and [Prof. Kun Kuang](https://scholar.google.com/citations?hl=zh-CN&user=FOsNiMQAAAAJ) in the DCD (Digital media Computing & Design) Lab.
 
 My research interests include:
-- **Reinforcement Learning**:;
-- **Large Language Models**:.
+- **Agentic RL**: Complex Scenario Agent (e.g. Tool Use, DeepResearch, Code Agent);
+- **LLM Reasoning**: Complex Scenario Reasoning (Real-World Open-Domain Unverifiable Reasoning) 
+- **Trustworthiness**: About models' generalization, safety, hallucination and so on.
+
 
 <!-- ★★★ Feel free to reach out to me for academic discussions and collaborations! -->
 
 ★★★ I am currently seeking job opportunities and will graduate in June 2027. If you have any suitable positions, please feel free to reach out.
-
 
 <!-- <span class='anchor' id='publications'></span> -->
 
@@ -37,13 +38,10 @@ My research interests include:
 
 <!-- {% include_relative includes/pub.md %} --> -->
 
-
 <!-- # 🏆 Honors and Awards
 - *2022-2025* Graduate Academic Scholarship, East China Normal University
 - *2022.06* Outstanding Graduate, East China University of Science and Technology
 - *2018-2022* Academic Excellence Scholarship, East China University of Science and Technology  -->
-
-
 # 📖 Educations
 - *2022.09 - 2027.06(Expected)*, PhD candidate, Zhejiang University 
  <!-- <img src='./images/' style='width: 2.3em;'> -->
