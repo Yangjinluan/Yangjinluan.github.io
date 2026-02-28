@@ -48,9 +48,9 @@ Please look through my [Google Scholar](https://scholar.google.com.hk/citations?
 
   <!-- <img src="./images/ant-bailing.png" alt="蚂蚁集团 Ling 团队 Logo" class="intern-logo"> -->
 
-- *2021.10 - 2022.01*: JD, NLP Platform
+<!-- - *2021.10 - 2022.01*: JD, NLP Platform
 
-  Responsible for NLP Dialogue System
+  Responsible for NLP Dialogue System -->
 
 # 📖 Educations
 - *2022.09 - 2027.06 (Expected)*, PhD candidate, Zhejiang University 
