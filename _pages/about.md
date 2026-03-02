@@ -36,7 +36,7 @@ Please look through my [Google Scholar](https://scholar.google.com.hk/citations?
 
 - *2025.09 - 2026.03*: Meituan, [LongCat Team](https://github.com/meituan-longcat)
 
-  Responsible for Agentic Tool Use: Cold Start Strategy and RL Task Synthesis 
+  Responsible for Agentic Tool Use: (1) Cold Start and RL Strategy; (2) Date Synthesis and Data Selection
 
   Core Contributor of [LongCat-Flash-Thinking-2601 Technical Report](https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=OdEZE2AAAAAJ&sortby=pubdate&citation_for_view=OdEZE2AAAAAJ:j8SEvjWlNXcC)
 
@@ -44,7 +44,7 @@ Please look through my [Google Scholar](https://scholar.google.com.hk/citations?
 
 - *2024.06 - 2025.06*: AntGroup, [Ling Team](https://github.com/inclusionAI)
 
-  Responsible for LLM Post-Training: Multi-Objective Policy Optimization and Data Mixture Optimization 
+  Responsible for LLM Post-Training: (1) Multi-Objective Policy Optimization; (2) Data Mixture Optimization 
 
   <!-- <img src="./images/ant-bailing.png" alt="蚂蚁集团 Ling 团队 Logo" class="intern-logo"> -->
 
