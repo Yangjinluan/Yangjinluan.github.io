@@ -34,7 +34,7 @@ Please look through my [Google Scholar](https://scholar.google.com.hk/citations?
 
 # 💻 Internships
 
-- *2025.09 - 2026.03*: Meituan, [LongCat Team](https://github.com/meituan-longcat)
+- *2025.08 - 2026.02*: Meituan, [LongCat Team](https://github.com/meituan-longcat)
 
   Responsible for Agentic Tool Use: (1) Cold Start and RL Strategy; (2) Date Synthesis and Data Selection
 
