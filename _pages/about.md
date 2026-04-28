@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fourth-year PhD Student in the College of Computer Science and Technology at Zhejiang University, under the supervision of [Prof. Fei Wu](https://scholar.google.com/citations?hl=zh-CN&user=XJLn4MYAAAAJ) and [Prof. Kun Kuang](https://scholar.google.com/citations?hl=zh-CN&user=FOsNiMQAAAAJ) in the DCD (Digital media Computing & Design) Lab. During my PhD journey, I am also fortunate to collaborate with [Prof. Li Shen](https://scholar.google.com.hk/citations?hl=en&user=yVhgENIAAAAJ) from Sun Yat-sen University and [Zhengyu Chen](https://scholar.google.com.hk/citations?user=PqrvpbkAAAAJ&hl=en&oi=ao) from Meituan remotely.
+I am currently a fourth-year PhD Student in the College of Computer Science and Technology at Zhejiang University, under the supervision of [Prof. Fei Wu](https://scholar.google.com/citations?hl=zh-CN&user=XJLn4MYAAAAJ) in the DCD (Digital media Computing & Design) Lab. During my PhD journey, I am also fortunate to collaborate with [Prof. Li Shen](https://scholar.google.com.hk/citations?hl=en&user=yVhgENIAAAAJ) from Sun Yat-sen University and [Zhengyu Chen](https://scholar.google.com.hk/citations?user=PqrvpbkAAAAJ&hl=en&oi=ao) from Meituan remotely.
 
 My research interests include:
 - **Agentic RL** for complex interaction scenarios (e.g. Tool Use, DeepResearch, Code Agent);
@@ -34,7 +34,7 @@ Please look through my [Google Scholar](https://scholar.google.com.hk/citations?
 
 # 💻 Internships
 
-- *2025.08 - 2026.02*: Meituan, [LongCat Team](https://github.com/meituan-longcat)
+- *2025.08 - 2026.03*: Meituan, [LongCat Team](https://github.com/meituan-longcat)
 
   Responsible for Agentic Tool Use: (1) Cold Start and RL Strategy; (2) Date Synthesis and Data Selection
 
