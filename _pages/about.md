@@ -34,9 +34,13 @@ Please look through my [Google Scholar](https://scholar.google.com.hk/citations?
 
 # 💻 Internships
 
+- *2026.05 - Now*: Alibaba, [Tongyi Lab]
+
+  Responsible for Self-Evolving Agent(Work in Process)
+
 - *2025.08 - 2026.03*: Meituan, [LongCat Team](https://github.com/meituan-longcat)
 
-  Responsible for Agentic Tool Use: (1) Cold Start and RL Strategy; (2) Date Synthesis and Data Selection
+  Responsible for Agentic Tool Use: (1) Cold Start and RL Strategy; (2) Environment Scaling
 
   Core Contributor of [LongCat-Flash-Thinking-2601 Technical Report](https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=OdEZE2AAAAAJ&sortby=pubdate&citation_for_view=OdEZE2AAAAAJ:j8SEvjWlNXcC)
 
