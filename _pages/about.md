@@ -34,7 +34,7 @@ Please look through my [Google Scholar](https://scholar.google.com.hk/citations?
 
 # 💻 Internships
 
-- *2026.05 - Now*: Alibaba, [Tongyi Lab]
+- *2026.05 - Now*: Alibaba, Tongyi Lab
 
   Responsible for Self-Evolving Agent(Work in Process)
 
